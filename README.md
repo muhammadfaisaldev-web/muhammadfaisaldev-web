@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Muhammad Faisal 👋
 
-<!--
-**muhammadfaisaldev-web/muhammadfaisaldev-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Website Developer | PHP Developer | Software Engineer
 
-Here are some ideas to get you started:
+I am a passionate Website Developer with 3+ years of experience in developing responsive and dynamic web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- jQuery
+- AJAX
+- Bootstrap
+- PHP
+- MySQL
+- Git & GitHub
+- API Integration
+
+### 🎓 Education
+
+- BS Computer Science (The University of Larkano)
+- Advanced Diploma in Software Engineering (ADSE) - Aptech
+- Certificate in Information Technology (CIT)
+
+### 💼 Experience
+
+Website Developer at NFN Developers
+
+### 🌐 Portfolio
+
+https://faisal-web-developer.netlify.app/
+
+### 🔗 LinkedIn
+
+https://www.linkedin.com/in/muhammad-faisal-soomro-7b5b30324
+
+### 📫 Contact
+
+mfaisalsoomro2004@gmail.com
